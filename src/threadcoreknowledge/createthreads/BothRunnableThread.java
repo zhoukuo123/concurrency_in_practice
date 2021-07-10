@@ -1,6 +1,8 @@
 package threadcoreknowledge.createthreads;
 
 /**
+ *
+ * 同时使用Runnable和Thread两种实现线程的方式
  * @author CoderZk
  * @date 2020/10/27
  */
